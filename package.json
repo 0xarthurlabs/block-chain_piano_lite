@@ -1,0 +1,30 @@
+{
+  "name": "00_blockchain_piano_game_v1.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "staging-test": "cross-env VERIFY=false WAIT_CONFIRMATIONS=6 hardhat test test/staging/workflow.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "@chainlink/contracts": "^1.4.0",
+    "@chainlink/contracts-ccip": "^1.6.0",
+    "@chainlink/env-enc": "^1.0.5",
+    "@chainlink/local": "^0.2.5",
+    "@nomicfoundation/hardhat-toolbox": "^6.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.14",
+    "cross-env": "^7.0.3",
+    "dotenv": "^17.0.1",
+    "ethers": "^6.14.4",
+    "hardhat": "^2.25.0",
+    "hardhat-deploy": "^0.12.4",
+    "hardhat-deploy-ethers": "^0.4.2",
+    "@pinata/sdk": "^2.1.0"
+  },
+  "dependencies": {}
+}

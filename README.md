@@ -1,13 +1,13 @@
-<div align="center">  <img src="https://gateway.pinata.cloud/ipfs/bafybeibx2dgjxnbq3jwqvnjgj4vdtthhjmzwuijwbs5t4xzv3g3nxwjrxa" alt="logo" style="zoom:33%;" /> </div>
+<div align="center">  <img src="https://raw.githubusercontent.com/0xarthurlabs/block-chain_piano_lite/main/assets/images/logo.png" alt="logo" style="zoom:33%;"  /> </div>
 
 <div style="text-align: center;"><h1>🎹Blockchain_piano_game_Lite</h1></div>
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0.txt">
-    <img src="https://gateway.pinata.cloud/ipfs/bafkreianevlnlofslyrkm3pbcmbisybjkxxvnxrrc3wli3eepgiyhleogu" alt="license">
+    <img src="https://raw.githubusercontent.com/0xarthurlabs/block-chain_piano_lite/main/assets/images/license.png" alt="license">
   </a>
     <a href="https://github.com/0xarthurlabs/block-chain_piano_lite">
-    <img src="https://gateway.pinata.cloud/ipfs/bafkreiaagmn5nhsva3wq6faeq6mzgwbqyh34iooydd7rqibnzsplv4gqim" alt="codebase">
+    <img src="https://raw.githubusercontent.com/0xarthurlabs/block-chain_piano_lite/main/assets/images/version-1.0.0-lite.png" alt="codebase">
   </a>
 </p>
 <div align="center">   <a href="https://youtu.be/fSGf7dx0Oz8"><svg version="1.1" viewBox="0 0 30 30" width="20" height="20" style="vertical-align: middle; fill: #FF0000;" xmlns="http://www.w3.org/2000/svg"><path d="M27.972,7.338c-0.327-1.222-1.287-2.181-2.51-2.508C23.25,4.251,15,4.251,15,4.251s-8.25,0-10.462,0.579 c-1.223,0.327-2.183,1.286-2.51,2.508C1.45,9.548,1.45,14.167,1.45,14.167s0,4.619,0.578,6.828c0.327,1.222,1.287,2.181,2.51,2.508 C6.75,24.082,15,24.082,15,24.082s8.25,0,10.462-0.579c1.223-0.327,2.183-1.286,2.51-2.508c0.578-2.21,0.578-6.828,0.578-6.828 S28.55,9.548,27.972,7.338z M12.25,18.417V9.917l7.333,4.25L12.25,18.417z"></path></svg> <b>Video Guide</b></a>  |   <a href="https://block-chain-piano-lite-git-main-arthurs-projects-4430ac93.vercel.app">🚀 <b>Vercel Live Demo</b></a> | <a href="https://github.com/0xarthurlabs/block-chain_piano_lite">💻 <b>Source Code</b></a> </div>
@@ -24,13 +24,13 @@ By integrating **Chainlink CCIP**, the project ensures that earned achievements 
 
 The project adopts a modular, multi-layered architecture, with the **Lite version** successfully implementing all core functionalities: the frontend utilizes **React** and **Ethers.js** for seamless wallet interaction, while the contract layer is built on **Hardhat** and deployed across the **Ethereum Sepolia** and **Polygon Amoy** testnets. To facilitate asset interoperability, **Chainlink CCIP** is integrated for secure cross-chain transfers. Future **Pro** and **Ultra** iterations will expand into **DeFi** and **DAO** applications with comprehensive security audits, while introducing advanced features such as data indexing (**The Graph**), L2 scaling (**Arbitrum**), **zkEVM** integration, and multi-sig security via **Gnosis Safe**.
 
-<div align="center">  <img src="https://gateway.pinata.cloud/ipfs/bafkreiabkanlwwhhh5maczu2gcyg7ql4fatni2svhmvinbjtc35wbhjvny" alt="architecture"  /> </div>
+<div align="center">  <img src="https://raw.githubusercontent.com/0xarthurlabs/block-chain_piano_lite/main/assets/images/architecture.png" alt="architecture"  /> </div>
 
 # 🔄 2. Business Logic Flow
 
 The dApp's operational lifecycle starts with the **Owner** deploying the ecosystem and minting **PlatformTokens** to fund the **TokenSale** contract, where **Users** purchase them using native **ETH**. These tokens act as entry fees for the **Piano Guess Game**; upon achieving three successful guesses, the system triggers the minting of an **NFTCollectible** directly to the player's wallet. Finally, users can leverage the **Chainlink CCIP** bridge to transfer their assets, where the **NFTBridgeSender** locks or burns the original NFT to trigger the minting of a **WrappedNFT** on the destination chain via the **NFTBridgeReceiver**.
 
-<div align="center">  <img src="https://gateway.pinata.cloud/ipfs/bafkreigmdqka7mxt5q4rupphxasuz4a4ws746ag45oq7jnnpt27jndx6xm" alt="workflow"  /> </div>
+<div align="center">  <img src="https://raw.githubusercontent.com/0xarthurlabs/block-chain_piano_lite/main/assets/images/workflow.png" alt="workflow"  /> </div>
 
 # 🛡️ 3. Web3 Security & Gas/Code Optimization
 
@@ -38,7 +38,7 @@ The current **Lite version** focuses primarily on core functional implementation
 
 Security is an ongoing commitment. Starting with the **Pro version**, the development process will strictly adhere to the comprehensive **Web3 Security Spectrum** illustrated above—addressing critical patterns such as Reentrancy, Access Control, and Integer Overflow. I am dedicated to continuously updating this security knowledge base to safeguard system integrity while implementing advanced **Gas/Code Optimization** techniques (such as using `calldata`, immutable constants, and efficient storage packing) to ensure a high-performance, cost-effective user experience.
 
-<div align="center">  <img src="https://github.com/0xarthurlabs/block-chain_piano_lite/blob/main/assets/images/security.png" alt="security"  /> </div>
+<div align="center">  <img src="https://raw.githubusercontent.com/0xarthurlabs/block-chain_piano_lite/main/assets/images/security.png" alt="security"  /> </div>
 
 #  📁 4. Project Structure
 
@@ -350,9 +350,10 @@ If you have any questions, suggestions, or would like to collaborate, feel free 
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0.txt">
-    <img src="https://gateway.pinata.cloud/ipfs/bafkreianevlnlofslyrkm3pbcmbisybjkxxvnxrrc3wli3eepgiyhleogu" alt="license">
+    <img src="https://raw.githubusercontent.com/0xarthurlabs/block-chain_piano_lite/main/assets/images/license.png" alt="license">
   </a>
     <a href="https://github.com/0xarthurlabs/block-chain_piano_lite">
-    <img src="https://gateway.pinata.cloud/ipfs/bafkreiaagmn5nhsva3wq6faeq6mzgwbqyh34iooydd7rqibnzsplv4gqim" alt="codebase">
+    <img src="https://raw.githubusercontent.com/0xarthurlabs/block-chain_piano_lite/main/assets/images/version-1.0.0-lite.png" alt="codebase">
   </a>
 </p>
+

@@ -38,9 +38,7 @@ The current **Lite version** focuses primarily on core functional implementation
 
 Security is an ongoing commitment. Starting with the **Pro version**, the development process will strictly adhere to the comprehensive **Web3 Security Spectrum** illustrated above—addressing critical patterns such as Reentrancy, Access Control, and Integer Overflow. I am dedicated to continuously updating this security knowledge base to safeguard system integrity while implementing advanced **Gas/Code Optimization** techniques (such as using `calldata`, immutable constants, and efficient storage packing) to ensure a high-performance, cost-effective user experience.
 
-<div align="center">  <img src="https://gateway.pinata.cloud/ipfs/bafkreibrxiwpj3p42bpkyrg45x354jjd6rs2lrb3gla2ia7x44jzow5rqe"/> </div>
-
-
+<div align="center">  <img src="https://github.com/0xarthurlabs/block-chain_piano_lite/blob/main/assets/images/security.png" alt="security"  /> </div>
 
 #  📁 4. Project Structure
 

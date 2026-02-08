@@ -43,15 +43,15 @@
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.10",
-    "@types/react": "^19.1.8",
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.17",
-    "tw-animate-css": "^1.3.5",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
-    "react-scripts": "5.0.1"
+    "@types/react": "^19.1.8",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.4.38",
+    "react-scripts": "5.0.1",
+    "tailwindcss": "^3.4.17",
+    "tailwindcss-animate": "^1.0.5"
   }
 }

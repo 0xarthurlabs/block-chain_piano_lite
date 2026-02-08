@@ -1,8 +1,8 @@
-@import "tw-animate-css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @custom-variant dark (&:is(.dark *));
-
-
 
 body {
   margin: 0;
@@ -17,10 +17,6 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-/* @tailwind base;
-@tailwind components;
-@tailwind utilities; */
 
 @theme inline {
   --radius-sm: calc(var(--radius) - 4px);
@@ -128,10 +124,6 @@ code {
   --sidebar-border: oklch(1 0 0 / 10%);
   --sidebar-ring: oklch(0.556 0 0);
 }
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 /* @layer base {
   * {

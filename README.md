@@ -3,14 +3,14 @@
 <div style="text-align: center;"><h1>🎹Blockchain_piano_game_Lite</h1></div>
 
 <p align="center">
-  <a href="https://www.gnu.org/licenses/gpl-3.0.txt">
+  <a href="https://www.gnu.org/licenses/gpl-3.0.txt" target="_blank">
     <img src="https://raw.githubusercontent.com/0xarthurlabs/block-chain_piano_lite/main/assets/images/license.png" alt="license">
   </a>
-    <a href="https://github.com/0xarthurlabs/block-chain_piano_lite">
+    <a href="https://github.com/0xarthurlabs/block-chain_piano_lite" target="_blank">
     <img src="https://raw.githubusercontent.com/0xarthurlabs/block-chain_piano_lite/main/assets/images/version-1.0.0-lite.png" alt="codebase">
   </a>
 </p>
-<div align="center">   <a href="https://youtu.be/fSGf7dx0Oz8"> <img src="https://cdn-icons-png.flaticon.com/32/174/174883.png" height="60" width="18" alt="youtube"> <b>Video Guide</b></a>  |   <a href="https://block-chain-piano-lite.vercel.app">🚀 <b>Vercel Live Demo</b></a> | <a href="https://github.com/0xarthurlabs/block-chain_piano_lite">💻 <b>Source Code</b></a> </div>
+<div align="center">   <a href="https://youtu.be/fSGf7dx0Oz8" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/32/174/174883.png" height="60" width="18" alt="youtube"> <b>Video Guide</b></a>  |   <a href="https://block-chain-piano-lite.vercel.app" target="_blank">🚀 <b>Vercel Live Demo</b></a> | <a href="https://github.com/0xarthurlabs/block-chain_piano_lite" target="_blank">💻 <b>Source Code</b></a> </div>
 
 # 📝Project Overview
 
@@ -306,8 +306,8 @@ npm start
 
 Once the server is running, you can access the interface at:
 
-- **Local Environment**: [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000)
-- **Production**: [Your Vercel Link]
+- **Local Environment**: http://localhost:3000
+- **Production**: https://block-chain-piano-lite.vercel.app
 
 **Note:** If the market displays no NFTs after winning, run: 
 
@@ -349,10 +349,10 @@ If you have any questions, suggestions, or would like to collaborate, feel free 
 > **Note**: For technical issues or bug reports, please open an **Issue** directly in this repository.
 
 <p align="center">
-  <a href="https://www.gnu.org/licenses/gpl-3.0.txt">
+  <a href="https://www.gnu.org/licenses/gpl-3.0.txt" target="_blank">
     <img src="https://raw.githubusercontent.com/0xarthurlabs/block-chain_piano_lite/main/assets/images/license.png" alt="license">
   </a>
-    <a href="https://github.com/0xarthurlabs/block-chain_piano_lite">
+    <a href="https://github.com/0xarthurlabs/block-chain_piano_lite" target="_blank">
     <img src="https://raw.githubusercontent.com/0xarthurlabs/block-chain_piano_lite/main/assets/images/version-1.0.0-lite.png" alt="codebase">
   </a>
 </p>
